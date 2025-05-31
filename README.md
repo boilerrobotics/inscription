@@ -1,6 +1,6 @@
 # Inscription
 
-Knowledge center for Boiler Robotics club.
+Inscription is the knowledge center for Boiler Robotics club.
 It is powered by [Jupyter-Book](https://jupyterbook.org/en/stable/intro.html).
 The book is hosted by Github page and can be accessed by this [link](https://boilerrobotics.github.io/insctiption/)
 
@@ -56,7 +56,23 @@ So, the files won't be found unless you edit the deploy workflow as instructed i
 
 ## Editing
 
-To be continue
+### Configurations
+
+The `_config.yml` has all the configurations you can do with the book.
+In general, you would not need to edit this file.
+However, in case you want to change configurations, it is recommended that you look at this [reference](https://jupyterbook.org/en/stable/customize/config.html) before make any changes.
+
+### Table of Content
+
+The `_toc.yml` is the table of content file.
+There are a few ways to create content hierarchy as shown in this [reference](https://jupyterbook.org/en/stable/structure/toc.html).
+
+### Content
+
+Each page is a markdown file.
+You can look at the table of content (`_toc.yml`) for file name and its location.
+You can also make a dynamic page by adding script.
+More details is [here](https://jupyterbook.org/en/stable/content/index.html).
 
 ## Credits
 
