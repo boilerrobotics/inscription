@@ -54,6 +54,8 @@ However, GitHub Action configuration needs to be fixed.
 By default, the build process will compile html files to `[your_book_name]/_build/html` while GitHub Page will look for those files at `_build/html`.
 So, the files won't be found unless you edit the deploy workflow as instructed in step 3.
 
+Note: Jupyter Book has template for deploying to GitHub Page. More information [here](https://jupyterbook.org/stable/get-started/publish/).
+
 ## Editing
 
 ### Configurations

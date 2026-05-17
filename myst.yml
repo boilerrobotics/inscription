@@ -1,0 +1,15 @@
+# See docs at: https://mystmd.org/guide/frontmatter
+version: 1
+project:
+  id: 6efd1cad-5e8e-4547-8224-9a1a45b11ea5
+  # title:
+  # description:
+  # keywords: []
+  # authors: []
+  github: https://github.com/boilerrobotics/insctiption
+  # To autogenerate a Table of Contents, run "jupyter book init --write-toc"
+site:
+  template: book-theme
+  # options:
+  #   favicon: favicon.ico
+  #   logo: site_logo.png
